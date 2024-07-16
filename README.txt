@@ -8,8 +8,13 @@ Marzipano Tool, available at http://www.marzipano.net.
 Usage
 -----
 
-The main application file is `app-files/index.html`. Many browsers have issues
-when using `file://` URLs. Therefore, to properly view the application it is
+
+
+The main application file is `index.html`. 
+
+Inserir o nome da imagem cubemap no final da url 'marzipano/?id=IMAGEM', exemplo https://site/marzipano/?id=285-img_20240711_123554_00_286
+
+Many browsers have issues when using `file://` URLs. Therefore, to properly view the application it is
 necessary to use a web server.
 
 

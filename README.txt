@@ -8,8 +8,6 @@ Marzipano Tool, available at http://www.marzipano.net.
 Usage
 -----
 
-
-
 The main application file is `index.html`. 
 
 Inserir o nome da imagem cubemap no final da url 'marzipano/?id=IMAGEM', exemplo https://site/marzipano/?id=285-img_20240711_123554_00_286
@@ -21,7 +19,7 @@ necessary to use a web server.
 Deployment
 ----------
 
-To deploy the application, upload the contents of the `app-files` folder into
+To deploy the application, upload the contents of the folder into
 a hosting service.
 
 
